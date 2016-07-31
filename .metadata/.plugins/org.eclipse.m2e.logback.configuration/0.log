@@ -1,0 +1,24 @@
+2016-07-31 16:16:49,902 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: yahoo-finance-api:yahoo-finance-api:0.0.1-SNAPSHOT @ /home/tausif/middle-ware/yahoo-finance-api/pom.xml.
+2016-07-31 16:16:50,089 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.reactivestreams:reactive-streams:jar:1.0.0.final is missing, no dependency information available
+2016-07-31 16:16:51,191 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yahoo-finance-api/src
+2016-07-31 16:16:51,191 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /yahoo-finance-api/src/test/java because it overlaps with /yahoo-finance-api/src
+2016-07-31 16:16:51,313 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-07-31 16:16:53,065 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.reactivestreams:reactive-streams:jar:1.0.0.final is missing, no dependency information available
+2016-07-31 16:16:53,332 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-31 16:16:53,332 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tausif/middle-ware/yahoo-finance-api/src/main/resources
+2016-07-31 16:16:53,337 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-31 16:16:53,337 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tausif/middle-ware/yahoo-finance-api/src/test/resources
+2016-07-31 16:16:58,755 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-31 16:16:59,172 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: yahoo-finance-api:yahoo-finance-api:0.0.1-SNAPSHOT @ /home/tausif/middle-ware/yahoo-finance-api/pom.xml.
+2016-07-31 16:17:00,973 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/maven-metadata.xml
+2016-07-31 16:17:01,254 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/maven-metadata.xml
+2016-07-31 16:17:01,585 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.0.final/reactive-streams-1.0.0.final.pom
+2016-07-31 16:17:01,585 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.reactivestreams:reactive-streams:jar:1.0.0.final is missing, no dependency information available
+2016-07-31 16:17:01,860 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yahoo-finance-api/src
+2016-07-31 16:17:01,860 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /yahoo-finance-api/src/test/java because it overlaps with /yahoo-finance-api/src
+2016-07-31 16:17:01,993 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-07-31 16:17:02,329 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.reactivestreams:reactive-streams:jar:1.0.0.final is missing, no dependency information available
+2016-07-31 16:17:02,446 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-31 16:17:02,447 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tausif/middle-ware/yahoo-finance-api/src/main/resources
+2016-07-31 16:17:02,448 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-31 16:17:02,449 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tausif/middle-ware/yahoo-finance-api/src/test/resources
